@@ -1,0 +1,5 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+  name: Puppy_RTRG
+  memory: 56M
